@@ -1,4 +1,5 @@
 Bike Sales Analysis
+
 📌 Overview
 
 This project analyzes a dataset of bike sales to uncover patterns and insights about customer demographics, purchasing behavior, and regional sales trends. The analysis was performed using Excel, with data cleaning, pivot tables, and visualizations to highlight key findings.
@@ -38,3 +39,4 @@ Creating pivot tables for analysis
 Building dashboards for visualization
 
 Deriving actionable insights from raw data
+
