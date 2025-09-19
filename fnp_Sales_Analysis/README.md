@@ -44,4 +44,5 @@ The interactive dashboard includes:
 - `README.md` → Project documentation
 - `fnp_Sales_Analysis.xlsx` → Dataset + Dashboard
 - `fnp_Sales_Analysis_Report.pdf` → Full report with answers to business questions
+- `fnp_Sales_Analysis.png` → Screenshot of Dashboard 
 - `fnp Dataset` → Contains raw data + Requirements 
